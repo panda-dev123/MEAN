@@ -1,0 +1,54 @@
+[
+  [
+    null,
+    "system_id",
+    "Systemname",
+    "Typ",
+    "Kategorie",
+    "STATUS",
+    "CI-Verantwortlicher",
+    "Standort-Raum",
+    "Modell",
+    "MAC-Adresse",
+    "IP-Adresse"
+  ],
+  [
+    null,
+    118674,
+    "GIF-APP-020",
+    "Server",
+    "Server Windows",
+    "IAV_WRK",
+    "Sondermann, Marco",
+    "G_01.A-Hauptgebäude_G_01.A0012",
+    "ProLiant DL360p Gen8 (Server Windows)",
+    "2C:44:FD:87:E5:A8",
+    "172.16.46.3"
+  ],
+  [
+    null,
+    118682,
+    "GIF-BKP-005",
+    "Server",
+    "Server Windows",
+    "IAV_WRK",
+    "Flaemig, Harald",
+    "G_04.A-Hauptgebäude_G_04.A0025",
+    "ProLiant DL580 Gen8 (Server Windows)",
+    "6C:C2:17:41:54:48",
+    10188132174
+  ],
+  [
+    null,
+    118706,
+    "GIF-IMS-019",
+    "Server",
+    "Server Windows",
+    "IAV_WRK",
+    "Sondermann, Marco",
+    "G_01.A-Hauptgebäude_G_01.A0012",
+    "ProLiant DL360p Gen8 (Server Windows)",
+    "AC:16:2D:85:03:E4",
+    "10.188.248.2"
+  ]
+]

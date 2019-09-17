@@ -1,0 +1,10 @@
+<div *ngIf="calendarOptions">
+    <ng-fullcalendar
+        #ucCalendar
+        [options]="calendarOptions"
+        (dayClick)="chooseDay($event.detail)"
+        (clickButton)="currentDate()"
+        (initialized)="currentDate()"
+        [eventsModel]="entries"
+    ></ng-fullcalendar>
+</div>

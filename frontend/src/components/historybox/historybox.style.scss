@@ -1,0 +1,21 @@
+@import '../../styles';
+
+.history-box {
+    margin-top: 0px;
+    background-color: $grey_light;
+
+    .entry {
+        padding: 15px;
+        border-bottom: 2px solid white;
+        cursor: pointer;
+
+        .done {
+            color: $blue;
+            font-weight: bold;
+        }
+
+        .right {
+            color: $grey_dark;
+        }
+    }
+}
