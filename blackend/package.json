@@ -16,7 +16,7 @@
     "cors": "^2.8.5",
     "exceljs": "^1.6.3",
     "express": "^4.16.4",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "ldapjs": "^1.0.2",
     "mkdirp": "^0.5.1",
     "mongoose": "^5.3.16",
